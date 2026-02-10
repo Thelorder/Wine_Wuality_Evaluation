@@ -1,0 +1,2 @@
+
+print("Booting MicroPython...")
