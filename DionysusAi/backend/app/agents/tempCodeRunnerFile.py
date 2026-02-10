@@ -1,1 +1,0 @@
-r"C:\Users\User\Desktop\Python Code\kaggle_data\WineDataset.csv"
